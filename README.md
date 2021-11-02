@@ -1,2 +1,2 @@
 # wpu-resolusi
-repositori untu resolusi 
+repositori untuk menyimpan rencana wpu kedepannya
